@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-springboot-client-example';
+  title = 'Angular & Spring Boot 2 CRUD Tutorial';
 }
